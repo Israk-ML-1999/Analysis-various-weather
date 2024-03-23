@@ -3,11 +3,12 @@ The project involves analyzing hourly weather observations using Python and data
 
 Calculate the average values for the following parameters over the entire timespan covered in the data, disregarding any NaN and other non-numeric values:
 
-Relative Humidity
-Temperature Average
-Wind Speed
-Precipitation Amount
-Pressure Average
+1. Relative Humidity
+2. Temperature Average
+3.  Wind Speed
+4.  Precipitation Amount
+5.  Pressure Average
+   
 Perform the following tasks using NumPy:
 
 For each parameter, calculate the minimum, maximum, and median values.
@@ -15,8 +16,8 @@ Find the hour with the highest value for each parameter.
 
 Create plots to visualize the trends of the following parameters over time:
 
-Relative Humidity
-Temperature Average
-Wind Speed
-Precipitation Amount
+Relative Humidity,
+Temperature Average,
+Wind Speed,
+Precipitation Amount,
 Pressure Average
